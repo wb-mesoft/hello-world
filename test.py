@@ -12,3 +12,6 @@ if __name__ == "__main__":
     print('D1: {0} D2: {1}'.format(d1, d2)" >> bot.py
 
     print("die 1:", random.randint(1,6), "die 2:",random.randint(1,6))
+
+    print("this is it baby !")
+
